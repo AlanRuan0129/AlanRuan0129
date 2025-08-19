@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Alan Ruan  
+
+### 🧑‍💻 About Me  
+🎓 Computer Science student at **Western University**  
+🤖 Experienced in **Computer Vision**, **AI-driven Applications**, and **Full-stack Development**  
+🛠️ Tech Stack: React · Node.js · Java · Python · Flask · AWS · YOLOv8  
+💡 Passionate about solving **real-world problems through technology**
+
+<a href="https://cloud.layer5.io/user/39f9ce8f-9306-426d-b88e-fa5488926639?tab=badges&badge=first-design">
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="120"/>
+</a> 
 
 <!--
 **AlanRuan0129/AlanRuan0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
